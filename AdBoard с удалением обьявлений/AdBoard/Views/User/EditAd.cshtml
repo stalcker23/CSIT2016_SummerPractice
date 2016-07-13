@@ -1,0 +1,40 @@
+﻿@model AdBoard.ViewModels.AdModel
+@{
+    ViewBag.Title = "Редактирование объявления";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Редактирование объявления</h2>
+
+@using (Html.BeginForm("EditAd", "User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.TextBoxFor(a => a.Title)
+    @Html.ValidationMessageFor(a => a.Title)
+    <br />
+    <select name="AdTypeId">
+        <option value="1" @(Model.AdTypeId == 1 ? "selected='selected'" : "")>
+            Продам
+        </option>
+        <option value="2" @(Model.AdTypeId == 2 ? "selected='selected'" : "")>
+            Куплю
+        </option>
+    </select>
+        <br />
+        @Html.TextAreaFor(a => a.Text)
+        @Html.ValidationMessageFor(a => a.Text)
+        <br />
+    foreach (var item in Model.Images)
+    {
+        <img src="@item.SmallImage" />
+        <br />
+            @Html.ActionLink("Удалить", "RemoveImage", "User", new { id = item.Id }, null)
+            <br />
+
+    }
+    <br />
+    <input type="file" name="image" />
+        <br />
+        <input type="submit" value="Сохранить" />
+        <br />
+
+}
+@Html.ActionLink("Назад", "GoToAccount", "Account")
