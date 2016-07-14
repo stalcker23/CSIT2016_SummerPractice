@@ -1,0 +1,39 @@
+﻿@model AdBoard.ViewModels.AdModel
+@{
+    ViewBag.Title = "GetAllAds";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Работа с объявлениями</h2>
+
+@foreach (var item in Model.Ads)
+{   <div class="d">
+ 
+            <text>Аккаунт: </text>@item.User.Email<br />
+            <text>Дата Регистрации: </text>@item.CreateDate<br />
+            <text>Заголовок: </text>@item.Title<br />
+            <text>Описание: </text>@item.Text<br />
+            @foreach (var image in item.Images)
+            {
+            <img src="@image.SmallImage" />
+            }
+            <br />
+            <text>Статус: </text>
+            @if ((@item.IsPublic==false) && (item.User.IsBlock == false))
+            {
+            <text>Не проверено </text><br />
+            @Html.ActionLink("Удалить", "AdDelete", "Admin", new { id = item.Id }, null)<br />
+            @Html.ActionLink("Разрешить добавление", "AdOk", "Admin", new { id = item.Id }, null)<br />
+            }
+            else 
+            {
+            <text>Проверено </text><br />
+            @Html.ActionLink("Удалить", "AdDelete", "Admin", new { id = item.Id }, null)<br />
+            }
+
+
+        </div>
+
+}
+@Html.ActionLink("Назад", "GoToAccount", "Account")
+        

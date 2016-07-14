@@ -1,0 +1,31 @@
+﻿@model AdBoard.ViewModels.RegistrationModel
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Регистрация</h2>
+
+@using (Html.BeginForm("Registration", "Registration", FormMethod.Post))
+{
+    <text>Имя:</text> @Html.TextBoxFor(r => r.FirstName)
+    @Html.ValidationMessageFor(r => r.FirstName)<br />
+    <text>Фамилия: </text>@Html.TextBoxFor(r => r.LastName)
+    @Html.ValidationMessageFor(r => r.LastName)<br />
+    <text>Электронная почта: </text>@Html.TextBoxFor(r => r.Email)
+
+
+    @Html.ValidationMessageFor(r => r.Email)<<<br />
+    <text>Страна: </text>@Html.TextBoxFor(r => r.Country)
+    @Html.ValidationMessageFor(r => r.Country)<br />
+    <text>Город: </text>@Html.TextBoxFor(r => r.City)
+    @Html.ValidationMessageFor(r => r.City)<br />
+    <text>Телефон: </text>@Html.TextBoxFor(r => r.Phone)
+    @Html.ValidationMessageFor(r => r.Phone)<br />
+    <text>Пароль: </text>@Html.PasswordFor(r => r.Password)
+    @Html.ValidationMessageFor(r => r.Password)<br />
+    <text>Повторите пароль: </text>@Html.PasswordFor(r => r.DPassword)
+    @Html.ValidationMessageFor(r => r.DPassword)<br />
+    <input type="submit" value="Зарегистрироваться" />
+}
+

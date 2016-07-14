@@ -1,0 +1,25 @@
+﻿@model AdBoard.ViewModels.AdModel
+@{
+    ViewBag.Title = "AddAd";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Страница добавления объявления</h2>
+
+@using (Html.BeginForm("AddAd", "User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.TextBoxFor(a => a.Title)
+    @Html.ValidationMessageFor(a => a.Title)<br />
+    <select name="AdTypeId">
+        <option value="1">Продам</option>
+        <option value="2">Куплю</option>
+    </select><br />
+    @Html.TextAreaFor(a => a.Text)
+    @Html.ValidationMessageFor(a => a.Text)<br />
+    <input type="file" name="image" /><br />
+    <input type="file" name="image" /><br />
+    <input type="file" name="image" /><br />
+    <input type="submit" value="Добавить" /><br />
+
+}
+@Html.ActionLink("Назад", "GoToAccount", "Account")
