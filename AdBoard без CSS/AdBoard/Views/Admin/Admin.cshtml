@@ -1,0 +1,35 @@
+﻿@model AdBoard.ViewModels.AdminViewModel
+@{
+    ViewBag.Title = "Admin";
+    
+}
+
+<h2>Работа с аккаунтами</h2>
+@Html.ActionLink("Просмотреть все объявления", "GetAllAds", "Admin")<br />
+@Html.ActionLink("Назад", "GoToAccount", "Account")<br/>
+
+<br />
+
+@foreach (var item in Model.Users)
+    {
+        <div class="d">  
+    <text>Аккаунт: </text>@item.Email<br /> 
+    <text>Дата Регистрации: </text>@item.RegDate<br />
+    <text>Описание: </text>@(item.FirstName+' '+item.LastName)<br/>
+    <text>Статус: </text> 
+    @if (@item.IsBlock)
+    {
+        <text>Забанен </text><br />
+        @Html.ActionLink("Разбанить", "BanUser", "Admin", new { id = item.Id }, null)<br />
+    }
+    else
+    {
+        <text>Аккаунт доступен </text><br />
+        @Html.ActionLink("Забанить", "BanUser", "Admin", new { id = item.Id }, null)<br />
+    }
+    
+           
+    </div>
+    
+}
+   
