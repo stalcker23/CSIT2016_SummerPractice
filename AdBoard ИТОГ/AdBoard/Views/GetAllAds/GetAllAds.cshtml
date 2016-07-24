@@ -1,0 +1,33 @@
+﻿@model AdBoard.ViewModels.HomeViewModel
+@{
+    ViewBag.Title = "GetAllAds";
+    
+}
+
+<h2>Просмотр всех объявлений</h2>
+<h3>
+    @Html.ActionLink("Назад", "GoToAccount", "Account", null, new { @class = "classForLinks" })
+    @Html.ActionLink("Поиск", "Index", "GetAllAds", null, new { @class = "classForLinks" })
+</h3>
+@foreach (var item in Model.Ads)
+{
+    <h5>
+        <text>Название: </text>@item.Title<br />
+        @if (@item.AdTypeId == 1)
+        {
+            <text>Вид: Продам</text><br />
+        }
+        else
+        {
+            <text>Вид: Куплю</text><br />
+        }
+        <text>Дата публикации: </text>@item.CreateDate.ToShortDateString()<br />
+        <text>Описание: </text>@item.Text<br />
+        @foreach (var image in item.Images)
+        {
+            <img src="@image.SmallImage" /><br />
+        }
+        @item.User.FirstName @item.User.LastName<br />
+        @item.User.Email<br />
+        </h5>
+}

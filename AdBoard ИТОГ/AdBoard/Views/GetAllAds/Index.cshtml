@@ -1,0 +1,43 @@
+﻿@model IEnumerable<AdBoard.Ad>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h3>
+    <p>
+        @Html.ActionLink("Назад", "GetAllAds", "GetAllAds", null, new { @class = "classForLinks" })
+        @using (Html.BeginForm("Index", "GetAllAds", FormMethod.Get))
+        {
+        <p>
+            Тип: @Html.DropDownList("type", "All")<br />
+            Поиск: @Html.TextBox("SearchString", null, new { @class = "classForLinks" })  <br />
+            <input type="submit" class="b1" value="Фильтр" />
+        </p>
+        }
+        </p>
+    </h3>
+        @foreach (var item in Model)
+        {
+            <h6 style="margin-top:-2%; margin-bottom:2%">
+                <text>Название: </text>@item.Title<br />
+                @if (@item.AdTypeId == 1)
+                {
+                    <text>Вид: Продам</text><br />
+                }
+                else
+                {
+                    <text>Вид: Куплю</text><br />
+                }
+                <text>Дата публикации: </text>@item.CreateDate.ToShortDateString()<br />
+                <text>Описание: </text>@item.Text<br />
+                @foreach (var image in item.Images)
+                {
+                    <img src="@image.SmallImage" /><br />
+                }
+                @item.User.FirstName @item.User.LastName<br />
+                @item.User.Email<br />
+            </h6>
+        }
+    
