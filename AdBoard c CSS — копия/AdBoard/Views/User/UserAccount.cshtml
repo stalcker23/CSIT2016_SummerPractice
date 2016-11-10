@@ -1,0 +1,52 @@
+﻿@model AdBoard.ViewModels.AdViewModel
+@{
+    ViewBag.Title = "UserAccount";
+
+}
+
+<h2>Аккаунт</h2>
+<h3>
+    @AdBoard.Helpers.AuthHelper.GetUser(Context).Email<br />
+    @if (AdBoard.Helpers.AuthHelper.GetUser(Context).RoleId != 1)
+    {
+        @Html.ActionLink("Добавить объявление", "AddAd", "User", new { @class = "classForLinks" })<br />
+    }
+    else
+    {
+        @Html.ActionLink("Администрирование", "Admin", "Admin",null, new { @class = "classForLinks" })<br />
+    }
+    @Html.ActionLink("Просмотреть все обьявления", "GetAllAds", "GetAllAds", null, new { @class = "classForLinks" })<br />
+    @Html.ActionLink("Выйти", "LogOff", "Account", null, new { @class = "classForLinks" })<br />
+    <br />
+</h3>
+
+        @foreach (var item in Model.Ads)
+        {
+            <h4 style="margin-top:4%;margin-bottom:-4%;">
+                <text>Название: </text>@item.Title<br />
+                @if (@item.AdTypeId == 1)
+                {
+                    <text>Вид: Продам</text><br />
+                }
+                else
+                {
+                    <text>Вид: Куплю</text><br />
+                }
+                <text>Дата публикации: </text>@item.CreateDate.ToShortDateString()<br />
+                <text>Описание: </text>@item.Text<br />
+
+                @foreach (var im in item.Images)
+                {
+
+                    <img src="@im.SmallImage" />
+                    <br />
+
+                }
+                @Html.ActionLink("Удалить", "RemoveAd", "User", new { id = item.Id }, new { @class = "classForLinks" })
+                <br />
+                @Html.ActionLink("Редактировать", "EditAd", "User", new { id = item.Id }, new { @class = "classForLinks" })
+                <br />
+                </h4>
+        }
+
+

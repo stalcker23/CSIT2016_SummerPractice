@@ -1,0 +1,510 @@
+D:\my\work\AdBoard\AdBoard\bin\AdBoard.dll
+D:\my\work\AdBoard\AdBoard\bin\AdBoard.pdb
+D:\my\work\AdBoard\AdBoard\bin\Antlr3.Runtime.dll
+D:\my\work\AdBoard\AdBoard\bin\EntityFramework.dll
+D:\my\work\AdBoard\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+D:\my\work\AdBoard\AdBoard\bin\Newtonsoft.Json.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Net.Http.Formatting.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Http.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Http.WebHost.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Mvc.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Optimization.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Providers.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Razor.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.WebPages.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.dll
+D:\my\work\AdBoard\AdBoard\bin\WebGrease.dll
+D:\my\work\AdBoard\AdBoard\bin\EntityFramework.xml
+D:\my\work\AdBoard\AdBoard\bin\Newtonsoft.Json.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Net.Http.Formatting.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Http.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Http.WebHost.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Mvc.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Web.Razor.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Web.WebPages.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.xml
+D:\my\work\AdBoard\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+D:\my\work\AdBoard\AdBoard\obj\Debug\AdBoard.dll
+D:\my\work\AdBoard\AdBoard\obj\Debug\AdBoard.pdb
+D:\my\work\AdBoard\AdBoard\bin\System.Net.Http.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Net.Http.WebRequest.dll
+D:\my\work\AdBoard\AdBoard\bin\System.Net.Http.xml
+D:\my\work\AdBoard\AdBoard\bin\System.Net.Http.WebRequest.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\obj\Debug\AdBoard.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\obj\Debug\AdBoard.pdb
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\AdBoard.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\AdBoard.pdb
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\Antlr3.Runtime.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\EntityFramework.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\Newtonsoft.Json.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Net.Http.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Net.Http.Formatting.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Net.Http.WebRequest.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Http.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Http.WebHost.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Mvc.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Optimization.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Providers.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Razor.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.WebPages.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\WebGrease.dll
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\EntityFramework.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\Newtonsoft.Json.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Net.Http.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Net.Http.Formatting.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Net.Http.WebRequest.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Http.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Http.WebHost.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Mvc.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.Razor.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.WebPages.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.xml
+D:\my\blog.your-group.ru\articles\lesson 2\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Downloads\lesson_2_AdBoard\AdBoard\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard — копия\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с добавлением обьявления\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия (2)\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\CSIT2016_SummerPractice\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard с удалением обьявлений — копия — копия (2)\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard без CSS\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS\AdBoard\obj\Debug\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\AdBoard.dll.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\AdBoard.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\Antlr3.Runtime.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\EntityFramework.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\Newtonsoft.Json.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Mvc.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Optimization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Providers.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.WebPages.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\WebGrease.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Net.Http.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\EntityFramework.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\Newtonsoft.Json.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Mvc.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.WebPages.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\System.Net.Http.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\bin\ru\EntityFramework.resources.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\obj\Debug\AdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\obj\Debug\AdBoard.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\AdBoard c CSS — копия\AdBoard\obj\Debug\AdBoard.pdb

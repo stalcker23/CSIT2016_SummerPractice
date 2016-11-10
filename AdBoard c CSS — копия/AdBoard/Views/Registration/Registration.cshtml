@@ -1,0 +1,37 @@
+﻿@model AdBoard.ViewModels.RegistrationViewModel
+@{
+    ViewBag.Title = "Registration";
+
+}
+
+<h2>Регистрация</h2>
+<h3>
+    @Html.ActionLink("Назад", "Index", "Home", null, new { @class = "classForLinks" })
+    </h3>
+<h6 style="margin-top:13%;">
+    @using (Html.BeginForm("Registration", "Registration", FormMethod.Post))
+    {
+        <text>Имя:</text> @Html.TextBoxFor(r => r.FirstName, null, new { @class = "classForRegistration" })
+        @Html.ValidationMessageFor(r => r.FirstName)<br />
+        <text>Фамилия: </text>@Html.TextBoxFor(r => r.LastName, null, new { @class = "classForRegistration" })
+        @Html.ValidationMessageFor(r => r.LastName)<br />
+        <text>Электронная почта: </text>@Html.TextBoxFor(r => r.Email, null, new { @class = "classForRegistration" })
+
+
+        @Html.ValidationMessageFor(r => r.Email)<br />
+        <text>Страна: </text>@Html.TextBoxFor(r => r.Country, null, new { @class = "classForRegistration" })
+
+
+
+    @Html.ValidationMessageFor(r => r.Country)<br />
+        <text>Город: </text>@Html.TextBoxFor(r => r.City, null, new { @class = "classForRegistration" })
+        @Html.ValidationMessageFor(r => r.City)<br />
+        <text>Телефон: </text>@Html.TextBoxFor(r => r.Phone, null, new { @class = "classForRegistration" })
+        @Html.ValidationMessageFor(r => r.Phone)<br />
+        <text>Пароль: </text>@Html.PasswordFor(r => r.Password, new { @class = "classForRegistration" })
+        @Html.ValidationMessageFor(r => r.Password)<br />
+        <text>Повторите пароль: </text>@Html.PasswordFor(r => r.DPassword, new { @class = "classForRegistration" })
+        @Html.ValidationMessageFor(r => r.DPassword)<br />
+        <input type="submit" class="b1" value="Готово" />
+    }
+</h6>

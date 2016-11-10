@@ -1,0 +1,29 @@
+﻿@model AdBoard.ViewModels.AdViewModel
+@{
+    ViewBag.Title = "AddAd";
+
+}
+
+<h2>Страница добавления объявления</h2>
+<h3>
+    <a href="#" class="button">@Html.ActionLink("Назад", "GoToAccount", "Account", null, new { @class = "classForLinks" })</a><br />
+</h3>
+<h4>
+    @using (Html.BeginForm("AddAd", "User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.TextBoxFor(a => a.Title, null, new { @class = "classForLinks" })
+        @Html.ValidationMessageFor(a => a.Title)<br />
+        <select name="AdTypeId">
+            <option value="1">Продам</option>
+            <option value="2">Куплю</option>
+        </select><br />
+        @Html.TextAreaFor(a => a.Text, new { @class = "classForLinks" })
+        @Html.ValidationMessageFor(a => a.Text)<br />
+        <input type="file"  /><br />
+        <input type="file" name="image" /><br />
+        <input type="file" name="image" /><br />
+
+        <input type="submit" class="b1" value="Добавить" /><br />
+
+    }
+</h4>
